@@ -28,7 +28,7 @@ spec:
       initContainers:
         - name: web1
           image: busybox:1.36
-          command: ["sh", "-c", "echo 'init failed'; exit 3"]
+          command: ["sh", "-c", "echo done"]
         
 
       containers:
