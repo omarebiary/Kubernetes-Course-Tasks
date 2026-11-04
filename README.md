@@ -1,13 +1,13 @@
-# Kubernetes-Course-Tasks
-Repo for submitting MLOPS Tasks
-
-Kubernetes-Course-Tasks/
-│
-├── README.md
-│
-├── Task-1/
-    ├── README.md
-    ├── deployment.yml
-    ├── deployment_error.yml
-    └── service.yml
+# Kubernetes-Course-Tasks<br>
+Repo for submitting MLOPS Tasks<br>
+<br>
+Kubernetes-Course-Tasks/ <br>
+│<br>
+├── README.md<br>
+│<br>
+├── Task-1/<br>
+    ├── README.md<br>
+    ├── deployment.yml<br>
+    ├── deployment_error.yml<br>
+    └── service.yml<br>
 
