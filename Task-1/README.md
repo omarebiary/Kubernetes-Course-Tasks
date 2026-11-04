@@ -24,7 +24,7 @@ accessing the pod from the exposed port
 created a separate file for the failing container withe the same deployment name then i applied this file, as is shown in the logs one container fails
 due to the init not 
 
-ANSWER: 
+**ANSWER**: <br>
 -the new pod show the status of PENDING<br>
 -nginx and time-updater do NOT start as the init container failed<br>
 -yes the page is still reachable as there are other replicas that traffic can be routed to<br>
