@@ -2,7 +2,7 @@
 <img width="1280" height="807" alt="Screenshot from 2026-11-04 23-41-00" src="https://github.com/user-attachments/assets/5458cfdd-e221-4600-9203-0a75c83acd79" />
 created the cluster using minikube as instructed with 3 nodes, 2 cpus, 2200 Mbs of memory and calico as the CNI
 
-**Step 2 Created the Namespace **
+**Step 2 Created the Namespace**
 <img width="977" height="248" alt="Screenshot from 2026-11-04 23-41-44" src="https://github.com/user-attachments/assets/8e37a771-0e5c-40c7-9e4b-64ce198bfe96" />
 created the namespace webapp imperatavely
 
