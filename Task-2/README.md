@@ -3,34 +3,57 @@
 
 ## 1. Port Forwarding
 
-
 <img width="1689" height="284" alt="Port forwarding" src="https://github.com/user-attachments/assets/83e003f3-8c8f-47d9-813d-a88a8c7f899f" />
+
+<br>
+
 Port-forwarding the NGINX Ingress Controller to access the application locally.
+
+<br>
 
 ## 2. Application Running in the Browser
 
-
 <img width="1206" height="905" alt="Application running in browser" src="https://github.com/user-attachments/assets/e466ce3d-aaf1-4b36-903a-c9cf1ca8a30b" />
+
+<br>
+
 The application running in the browser, displaying messages stored in the database.
 
+<br>
 
 ## 3. Testing Database Persistence
 
-
 <img width="1422" height="394" alt="Stopping SQL Pod" src="https://github.com/user-attachments/assets/f8e2ad31-fa5c-40c2-acb2-4c060bb07489" />
+
+<br>
+
 Stopping the SQL Pod to test database persistence.
 
+<br>
 
 <img width="1206" height="905" alt="Database unavailable" src="https://github.com/user-attachments/assets/e020c843-1a8b-4b7d-ad83-970bc30d77c0" />
+
+<br>
+
 The database is temporarily unavailable while the SQL Pod is down.
 
+<br>
 
 <img width="1275" height="363" alt="Restarting SQL Pod" src="https://github.com/user-attachments/assets/2651e963-9bdf-45ba-a440-5c40ebfe4ca0" />
+
+<br>
+
 Restarting the SQL Pod.
 
+<br>
 
 <img width="1226" height="873" alt="image" src="https://github.com/user-attachments/assets/41a63a82-141f-412b-9ce0-1f01fc249654" />
+
+<br>
+
 The previously stored data is still intact after the SQL Pod restarts, confirming that database persistence is working
+
+<br>
 
 ## 4. API Endpoints
 
